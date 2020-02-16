@@ -1079,3 +1079,9 @@
           -webkit-transition: none;
         }
 /* END SOUND VOLUME CONTROLS */
+
+/* custom from ilsubyeega/soundrown */
+#bg {
+  transition: all 1s !important;
+  transition-timing-function: ease-in;
+}
